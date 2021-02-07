@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Clock", "01. Clock\01. Clock.csproj", "{DA4B24F0-64B3-4C0E-A6B1-84410069544E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Clock", "01. Clock\01. Clock.csproj", "{DA4B24F0-64B3-4C0E-A6B1-84410069544E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiplication Table", "02. Multiplication Table\02. Multiplication Table.csproj", "{D941F232-FBCF-4D0E-A8F9-9AD7694BFB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Combinations", "03. Combinations\03. Combinations.csproj", "{0DAB5DB6-191B-4DDC-AE76-3EAC3ADD2284}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{DA4B24F0-64B3-4C0E-A6B1-84410069544E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA4B24F0-64B3-4C0E-A6B1-84410069544E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA4B24F0-64B3-4C0E-A6B1-84410069544E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D941F232-FBCF-4D0E-A8F9-9AD7694BFB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D941F232-FBCF-4D0E-A8F9-9AD7694BFB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D941F232-FBCF-4D0E-A8F9-9AD7694BFB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D941F232-FBCF-4D0E-A8F9-9AD7694BFB9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DAB5DB6-191B-4DDC-AE76-3EAC3ADD2284}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DAB5DB6-191B-4DDC-AE76-3EAC3ADD2284}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DAB5DB6-191B-4DDC-AE76-3EAC3ADD2284}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DAB5DB6-191B-4DDC-AE76-3EAC3ADD2284}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
